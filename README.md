@@ -1,3 +1,9 @@
+![React Recipe Finder App](./public/recipe-app-screenshot.png)
+
+# Reciper Finder Application
+
+Built using the Edamam api - https://developer.edamam.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
